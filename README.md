@@ -43,6 +43,7 @@ To get a local copy up and running, follow these simple steps:
   ```bash   
   npm run dev
 
+
 4. Open your browser and visit http://localhost:3000.
 
 ## Usage
