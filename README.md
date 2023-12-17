@@ -31,18 +31,19 @@ To get a local copy up and running, follow these simple steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/MohcineSafi/your-repository.git
 
 2. Install dependencies:
 
    ```bash
    npm install
-
+   ```
+   
 3. Run the development server:
   
   ```bash   
   npm run dev
-
+   ```
 
 4. Open your browser and visit http://localhost:3000.
 
@@ -53,7 +54,7 @@ Customize the content and styling according to your needs. Update the index.html
 ## Customization
 ## Changing Resume Content
 
-Update the index.html file in the root directory with your personal information, experience, education, skills, interests, and awards.
+Update the `index.html` file in the root directory with your personal information, experience, education, skills, interests, and awards.
 
 ## Styling
 
@@ -61,6 +62,7 @@ Modify the SCSS files in the scss/ directory to customize the styling of your re
 
   ```bash
   npm run build
+   ```
 
 ## Dependencies
 
